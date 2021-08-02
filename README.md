@@ -18,5 +18,3 @@
 - Pytest
 - Pillow
 - Bootstrap
-
-Сайт доступен: https://yatube-backend.tk/
